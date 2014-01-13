@@ -5,7 +5,7 @@ library(shiny)
 shinyUI(pageWithSidebar(
   
   # Application title
-  headerPanel("Shiny Text"),
+  headerPanel("Shiny Text on GitHub"),
   
   # Sidebar with controls to select a dataset and specify the number
   # of observations to view
